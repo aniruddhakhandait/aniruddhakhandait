@@ -13,5 +13,4 @@ Optimize SEO and set up web analytics
 
 Technologies:
 
-Javascript, React, Tailwind Css, Node, 
-Java, Spring Boot, sql, nosql,
+Java,Spring Boot,Javascript, React, Sql ,Nosql, 
